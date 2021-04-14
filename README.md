@@ -5,7 +5,7 @@ Implementation of a Simple Calculator with the next operations:
 * Minus
 * Multiply
 * Divide
-*Raiz cuadrada
+* Derivada
 Including integration with Travis CI, Sonarqube (SonarCloud), Coveralls and Snyk
 
 ### Folders Structure
